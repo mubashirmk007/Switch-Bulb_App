@@ -1,0 +1,13 @@
+.App {
+border:2px solid black;
+margin-left:350px;
+margin-top:20px;
+text-align: center;
+display:flex;
+width:750px;
+height:600px;
+background-color:lightgreen;
+align-items: center; 
+row-gap: 10px;
+border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+nav{
+    height: 80px;
+    text-align: center;
+    background-color: lightskyblue;
+    color: black;
+}
+nav h3{
+    padding-top: 22px;
+}
